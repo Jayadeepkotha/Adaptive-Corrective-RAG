@@ -1,0 +1,39 @@
+# Environment variables & secrets (CRITICAL: Do not commit!)
+.env
+.env.*
+!.env.example
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Node modules
+frontend/node_modules/
+
+# Evaluation cache & local databases
+data/eval/
+eval/cache/
+eval/results/
+*.db
+*.sqlite3
+
+# Legacy / scratch
+Adaptive/
+scratch/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

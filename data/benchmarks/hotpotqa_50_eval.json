@@ -1,0 +1,502 @@
+[
+  {
+    "id": "5ac07327554299012d1db5f2",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Who is Colin Kaepernick and what is his preferred nickname?",
+    "answers": [
+      "an American football quarterback"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a76a1a35542993735360122",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What is the nickname of a professional German footballer as well as the name of a children's book?",
+    "answers": [
+      "The BFG"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5abe54585542991f66106148",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What president was assassinated and had Worthy Stevens Streator as one of his pallbearers?",
+    "answers": [
+      "James Abram Garfield"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5abd848455429924427fd03a",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Are Edward F. Cline and Floyd Mutrux both screenwriters?",
+    "answers": [
+      "yes"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5abe0e4e55429976d4830a62",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Tim O'Kelly was cast in a film because he resembled a killer nicknamed what?",
+    "answers": [
+      "Texas Tower Sniper"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae7db435542993210983f9a",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What is the birthdate of this English actor best known for playing in Harry Potter and starring in The Woman in Black?",
+    "answers": [
+      "23 July 1989"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab28156554299449642c8ce",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What league did was the team that played home games at Holman Stadium belong to?",
+    "answers": [
+      "Canadian-American Association of Professional Baseball"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a825da055429954d2e2eb17",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Which style is the building located on the East Side of Midtown Manhattan that Robert Von Ancken appraised? ",
+    "answers": [
+      "Art Deco-style skyscraper"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ac2ae4155429921a00ab030",
+    "type": "bridge",
+    "level": "hard",
+    "question": "which  Australian politician represented  Electoral district of Goulburn",
+    "answers": [
+      "Jane Goward"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a90d25655429916514e7585",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Who is younger, Martin Luther King III or his brother Dexter?",
+    "answers": [
+      "Dexter"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8492ab5542992a431d1a5b",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Which plane has seen more combat, the Northrop F-15 Reporter or the Northrop P-61 Black Widow?",
+    "answers": [
+      "The Northrop P-61 Black Widow"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab9b7d555429970cfb8eb7a",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?",
+    "answers": [
+      "Henry Lau"
+    ],
+    "contexts_count": 9
+  },
+  {
+    "id": "5a76364d5542994ccc918719",
+    "type": "bridge",
+    "level": "hard",
+    "question": "When was the anthology, in which fisrt pages of The Incal\" were released, created?",
+    "answers": [
+      "December 1974"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a90692f5542990a98493625",
+    "type": "bridge",
+    "level": "hard",
+    "question": "In what 1997 American mystery crime film did Johnny Galecki start in?",
+    "answers": [
+      "Suicide Kings"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a7e22ed5542995ed0d166a7",
+    "type": "comparison",
+    "level": "hard",
+    "question": "What writer is older, Bernard Malamud or Lois McMaster Bujold?",
+    "answers": [
+      "Bernard Malamud"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8ac4dd5542992d82986f76",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?",
+    "answers": [
+      "Barnoldswick"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ac05c245542992a796dece5",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Glad to Be Unhappy is a song composed by what American?",
+    "answers": [
+      "Richard Charles Rodgers"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8a03245542992e4fca84d5",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What profession does Spice Girls discography and Emma Bunton have in common?",
+    "answers": [
+      "singer"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5aba5e2555429955dce3edf1",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Where does Yannick Ferreira Carrasco play home games?",
+    "answers": [
+      "Wanda Metropolitano"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5adc9b7a5542994d58a2f679",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Shani Gandi has worked with Kelsea Ballerini in what country?",
+    "answers": [
+      "American"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5adefcf15542995ec70e8f4c",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What position does the First Vice Captain of Juventus play?",
+    "answers": [
+      "centre-back"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8c5569554299240d9c2126",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Are Daryl Hall and Gerry Marsden both musicians?",
+    "answers": [
+      "yes"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab3952e5542992ade7c6de8",
+    "type": "bridge",
+    "level": "hard",
+    "question": "On what day of the week did the eleventh season's finale of American Dad air?",
+    "answers": [
+      "Sunday"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5abbdb195542993f40c73bf1",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Which is larger, Garajonay National Park or Guadarrama National Park?",
+    "answers": [
+      "Sierra de Guadarrama National Park"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae2c8b05542992decbdcd9d",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What is the birthplace of YouTube's 2016 overview featured creator Wengie?",
+    "answers": [
+      "Guangzhou, China"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8f64e0554299458435d60b",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Which documentary film was released first, Chicken Ranch or The End of Suburbia?",
+    "answers": [
+      "Chicken Ranch"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab32fc355429969a97a80fa",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Was Vanderbilt University or Emory University founded first?",
+    "answers": [
+      "Emory University."
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5abaf0e055429966062416a3",
+    "type": "bridge",
+    "level": "hard",
+    "question": "In which period was this German composer, pianist, organist and conductor born in 1847 active, whose work \"Wedding March\" became reference to any \"wedding march?\"",
+    "answers": [
+      "early Romantic period"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae4890a5542995ad6573d60",
+    "type": "bridge",
+    "level": "hard",
+    "question": "In what field does the firm at which Claudio Fern\u00e1ndez-Ar\u00e1oz was a currently a senior adviser offers services?",
+    "answers": [
+      "Executive Search, Board Consulting"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a73aeb855429908901be311",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Who is a guest in the final two episodes of season eighteen of South Park?",
+    "answers": [
+      "PewDiePie"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae5f1a8554299546bf82fd9",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Where is the English punk rock band which Howard Devoto is the original singer of formed",
+    "answers": [
+      "in Bolton"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8f6a025542992414482ab8",
+    "type": "bridge",
+    "level": "hard",
+    "question": "The series in which Sharon Gless played Debbie Novotny was developed and written by who?",
+    "answers": [
+      "Ron Cowen and Daniel Lipman"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5abee70a5542994516f45476",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What role did Anne Innes-Ker, Duchess of Roxburghe (daughter of the 7th Duke of Marlborough) serve to Queen Victoria?",
+    "answers": [
+      "Mistress of the Robes"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a73987c55429978a71e9039",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Which production company was involved with both of the movies A Kid in King Arthur's Court and The Great Locomotive Chase?",
+    "answers": [
+      "Walt Disney Productions"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae0335655429925eb1afc28",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Who is the mother of Mary Robinson in Shakespeare's \"The Winter's Tale\"",
+    "answers": [
+      "Leontes"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a81a7f75542995ce29dcc25",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Jin Jing is a Chinese female Paralympic fencer who called for a boycott of what retailer whose name means crossroads and public square in French?",
+    "answers": [
+      "Carrefour"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a887771554299206df2b294",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Which artist was Italian, Sergio Leone or Jon Paul Puno?",
+    "answers": [
+      "Sergio Leone"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae256435542992decbdccc3",
+    "type": "bridge",
+    "level": "hard",
+    "question": "In what year did the playwright who wrote \"The City Heiress\" die?",
+    "answers": [
+      "1689"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab480715542991751b4d798",
+    "type": "bridge",
+    "level": "hard",
+    "question": "In which year was this historic diner in Albany, New York built, which also was a filming location for major portions of Ironweed?",
+    "answers": [
+      "1941"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a7cf4e355429907fabef062",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What was Todd Boehly's former position at the firm where Mark Walter is the CEO?",
+    "answers": [
+      "president"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ade8bd955429975fa854f04",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What is the name of the genocidal mass slaughter of Tutsi Rwanda, in which Cyprian and Daphrose Rugamba were assassinated?",
+    "answers": [
+      "Rwandan genocide"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ac54cef5542993e66e822da",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Brian Newman's wife performs for what genre of variety show?",
+    "answers": [
+      "American burlesque"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a75404a55429916b01642be",
+    "type": "bridge",
+    "level": "hard",
+    "question": "At what university can the building that served as the fictional household that includes Gomez and Morticia be found?",
+    "answers": [
+      "Syracuse University"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a7320ac5542991f9a20c620",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Which game was created first, About Time or Java?",
+    "answers": [
+      "Java"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a8a2d2155429930ff3c0cdc",
+    "type": "bridge",
+    "level": "hard",
+    "question": "House of Many Ways is a young adult fantasy novel set in the same world as a novel that was adapted as an animated film of the same name and nominated for what?",
+    "answers": [
+      "Academy Award for Best Animated Feature"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ae00de055429906c02daab5",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Morgan Paull played Dave Holden in a 1982 film loosely adapted from a novel by what author?",
+    "answers": [
+      "Philip K. Dick"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5adfee9c55429906c02daa8a",
+    "type": "bridge",
+    "level": "hard",
+    "question": "The music magazine launched by Rob Stone and Jon Cohen that interviewed CupcakKe about her album Audacious in September was the first print publication to be released where?",
+    "answers": [
+      "on iTunes."
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5a7e21165542995ed0d166a2",
+    "type": "comparison",
+    "level": "hard",
+    "question": "Who is younger, Billy Idol or Ray Wilson?",
+    "answers": [
+      "Raymond Wilson"
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab2999a554299194fa9342f",
+    "type": "bridge",
+    "level": "hard",
+    "question": "Huell Howser provided the voice of Backson in Disney's what numbered animated film?",
+    "answers": [
+      "51st Disney animated feature film."
+    ],
+    "contexts_count": 10
+  },
+  {
+    "id": "5ab21c3b554299722f9b4cb4",
+    "type": "bridge",
+    "level": "hard",
+    "question": "What citizen was the author of Bimbos of the Death Sun?",
+    "answers": [
+      "American"
+    ],
+    "contexts_count": 10
+  }
+]

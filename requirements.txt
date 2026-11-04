@@ -1,0 +1,38 @@
+# ==============================================================================
+# Confidence-RAG Multi-Hop Cognitive Architecture - Dependencies
+# ==============================================================================
+
+# Core Frameworks & API
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+
+# Foundation LLM & External Fallback
+groq>=0.9.0
+ddgs>=9.0.0
+
+# Neural Retrieval & Dense Embeddings
+torch>=2.2.0
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+huggingface-hub>=0.23.0
+
+# Sparse Lexical Search & Graph Traversal
+rank-bm25>=0.2.2
+networkx>=3.2.0
+numpy>=1.26.0
+
+# Document Ingestion & Parsing
+pymupdf>=1.24.0
+python-multipart>=0.0.9
+
+# Observability, Telemetry & Logging
+loguru>=0.7.2
+rich>=13.7.0
+psutil>=5.9.0
+python-dotenv>=1.0.1
+
+# Quality Assurance & Testing
+pytest>=8.0.0
+httpx>=0.27.0

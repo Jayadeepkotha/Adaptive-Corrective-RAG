@@ -1,0 +1,576 @@
+[
+  {
+    "id": "164376040bde11eba7f7acde48001122",
+    "question": "What is the date of birth of Louis I, Count Of Nassau-Weilburg's father?",
+    "answers": [
+      "27 June 1441"
+    ],
+    "reasoning_steps": [
+      "Louis I of Nassau-Weilburg father John III of Nassau-Weilburg",
+      "John III of Nassau-Weilburg date of birth 27 June 1441"
+    ]
+  },
+  {
+    "id": "e6af07300bda11eba7f7acde48001122",
+    "question": "Where was the place of death of the director of film Madame Lu?",
+    "answers": [
+      "M\u00fclheim an der Ruhr"
+    ],
+    "reasoning_steps": [
+      "Madame Lu director Franz Hofer",
+      "Franz Hofer place of death M\u00fclheim an der Ruhr"
+    ]
+  },
+  {
+    "id": "d3c779240bdd11eba7f7acde48001122",
+    "question": "Where was the place of burial of John Coleman Burroughs's father?",
+    "answers": [
+      "Tarzana"
+    ],
+    "reasoning_steps": [
+      "John Coleman \"Jack\" Burroughs father Edgar Rice Burroughs",
+      "Edgar Rice Burroughs place of burial Tarzana"
+    ]
+  },
+  {
+    "id": "5f520cea0bdc11eba7f7acde48001122",
+    "question": "When is the director of film Cooley High 's birthday?",
+    "answers": [
+      "November 10, 1938"
+    ],
+    "reasoning_steps": [
+      "Cooley High director Michael Schultz",
+      "Michael Schultz date of birth November 10, 1938"
+    ]
+  },
+  {
+    "id": "43af97b20bde11eba7f7acde48001122",
+    "question": "Where was the father of Jelena Lieven born?",
+    "answers": [
+      "Moscow"
+    ],
+    "reasoning_steps": [
+      "Jelena Lieven father Alexander Lieven",
+      "Alexander Lieven place of birth Moscow"
+    ]
+  },
+  {
+    "id": "1c7eb2640bb011ebab90acde48001122",
+    "question": "Who is the paternal grandmother of Sophie, Countess Of Bar?",
+    "answers": [
+      "Richilde"
+    ],
+    "reasoning_steps": [
+      "Sophie of Bar father Frederick II",
+      "Frederick II mother Richilde"
+    ]
+  },
+  {
+    "id": "d03d0a34086411ebbd5eac1f6bf848b6",
+    "question": "Which film has the director who died first, Hell'S House or Muqaddar Ka Faisla?",
+    "answers": [
+      "Hell'S House"
+    ],
+    "reasoning_steps": [
+      "Hell's House director Howard Higgin",
+      "Muqaddar Ka Faisla director Prakash Mehra",
+      "Howard Higgin date of death December 16, 1938",
+      "Prakash Mehra date of death 17 May 2009"
+    ]
+  },
+  {
+    "id": "fa135f6208db11ebbd9cac1f6bf848b6",
+    "question": "Which film whose director was born first, Weird Woman or Secret Strings?",
+    "answers": [
+      "Secret Strings"
+    ],
+    "reasoning_steps": [
+      "Weird Woman director Reginald Le Borg",
+      "Secret Strings director John Ince",
+      "Reginald Le Borg date of birth 11 December 1902",
+      "John Ince (actor) date of birth August 29, 1878"
+    ]
+  },
+  {
+    "id": "a8e033ae0bdd11eba7f7acde48001122",
+    "question": "What is the place of birth of the director of film Cristina (Film)?",
+    "answers": [
+      "Buenos Aires"
+    ],
+    "reasoning_steps": [
+      "Cristina director Francisco M\u00fagica",
+      "Francisco M\u00fagica place of birth Buenos Aires"
+    ]
+  },
+  {
+    "id": "ec9d3827084f11ebbd56ac1f6bf848b6",
+    "question": "Are Unalaska Airport and Cape Sabine Dew Line Station both located in the same country?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "Unalaska Airport country U.S.",
+      "Cape Sabine DEW Line Station country United States"
+    ]
+  },
+  {
+    "id": "fe092eee0bdd11eba7f7acde48001122",
+    "question": "Where did Simon Fraser, 14Th Lord Lovat's father die?",
+    "answers": [
+      "Scottish"
+    ],
+    "reasoning_steps": [
+      "Brigadier Simon Joseph Fraser, 14th Lord Lovat father Simon Fraser, 13th Lord Lovat",
+      "Simon Fraser, 13th Lord Lovat place of death Scottish"
+    ]
+  },
+  {
+    "id": "c46f575c0bd911eba7f7acde48001122",
+    "question": "Where was the place of death of Edsel Ford's father?",
+    "answers": [
+      "Dearborn"
+    ],
+    "reasoning_steps": [
+      "Edsel Bryant Ford father Henry Ford",
+      "Henry Ford place of death Dearborn"
+    ]
+  },
+  {
+    "id": "befbd60c0bdd11eba7f7acde48001122",
+    "question": "Where did William S. Burroughs Jr.'s father study?",
+    "answers": [
+      "Harvard"
+    ],
+    "reasoning_steps": [
+      "William S. Burroughs Jr. father William Seward Burroughs II",
+      "William Seward Burroughs II educated at Harvard"
+    ]
+  },
+  {
+    "id": "28669c5a0bdc11eba7f7acde48001122",
+    "question": "Who is the father of the performer of song One Love (Carlene Carter Song)?",
+    "answers": [
+      "Carl Smith"
+    ],
+    "reasoning_steps": [
+      "One Love performer Carlene Carter",
+      "Carlene Carter father Carl Smith"
+    ]
+  },
+  {
+    "id": "0e6eb2d20bb011ebab90acde48001122",
+    "question": "Who is Otto I, Prince Of Anhalt-Aschersleben's paternal grandfather?",
+    "answers": [
+      "Henry I, Count of Anhalt"
+    ],
+    "reasoning_steps": [
+      "Otto I, Prince of Anhalt-Aschersleben father Henry II, Prince of Anhalt-Aschersleben",
+      "Henry II, Prince of Anhalt-Aschersleben father Henry I, Count of Anhalt"
+    ]
+  },
+  {
+    "id": "647e184a0bdb11eba7f7acde48001122",
+    "question": "Who is the child of the director of film Land Of My Fathers (Film)?",
+    "answers": [
+      "Claude Rains"
+    ],
+    "reasoning_steps": [
+      "Land of My Fathers director Fred Rains",
+      "Fred Rains child Claude Rains"
+    ]
+  },
+  {
+    "id": "812dccf40bb011ebab90acde48001122",
+    "question": "Who is the paternal grandfather of Sigismund I, Prince Of Anhalt-Dessau?",
+    "answers": [
+      "Albert II, Prince of Anhalt-Zerbst"
+    ],
+    "reasoning_steps": [
+      "Sigismund I, Prince of Anhalt-Dessau father John II, Prince of Anhalt-Zerbst",
+      "John II, Prince of Anhalt-Zerbst father Albert II, Prince of Anhalt-Zerbst"
+    ]
+  },
+  {
+    "id": "41b295500bb011ebab90acde48001122",
+    "question": "Who is Henry Ii, Duke Of M\u00fcnsterberg's paternal grandfather?",
+    "answers": [
+      "Nicholas the Small"
+    ],
+    "reasoning_steps": [
+      "Henry II of M\u00fcnsterberg father Bolko III of M\u00fcnsterberg",
+      "Bolko III of M\u00fcnsterberg father Nicholas the Small"
+    ]
+  },
+  {
+    "id": "2357718a088f11ebbd72ac1f6bf848b6",
+    "question": "Which film has the director who died earlier, Father Makes Good or The Power Of A Lie?",
+    "answers": [
+      "The Power Of A Lie"
+    ],
+    "reasoning_steps": [
+      "Father Makes Good director Jean Yarbrough",
+      "The Power of a Lie director George Archainbaud",
+      "Jean Yarbrough date of death August 2, 1975",
+      "George Archainbaud date of death February 20, 1959"
+    ]
+  },
+  {
+    "id": "e63572a20bdb11eba7f7acde48001122",
+    "question": "Who is the spouse of the director of film Dhaya (Film)?",
+    "answers": [
+      "Sreeja Chandran"
+    ],
+    "reasoning_steps": [
+      "Dhaya director Senthil Kumar",
+      "Senthil Kumar spouse Sreeja Chandran"
+    ]
+  },
+  {
+    "id": "c04557e00bdd11eba7f7acde48001122",
+    "question": "What nationality is Rajaraja Ii's father?",
+    "answers": [
+      "Chola dynasty"
+    ],
+    "reasoning_steps": [
+      "Rajaraja II father Kulothunga Chola II",
+      "Kulothunga Chola II country of citizenship Chola dynasty"
+    ]
+  },
+  {
+    "id": "8473b61c0bdd11eba7f7acde48001122",
+    "question": "Where was the father of Abdallah Ibn Abd Al-Malik born?",
+    "answers": [
+      "Medina"
+    ],
+    "reasoning_steps": [
+      "\u02bfAbdall\u0101h ibn \u02bfAbd al-Malik father Abd al-Malik ibn Marwan",
+      "Abd al-Malik ibn Marwan place of birth Medina"
+    ]
+  },
+  {
+    "id": "0d9251260baf11ebab90acde48001122",
+    "question": "Who is the sibling-in-law of Jean Tangye?",
+    "answers": [
+      "Nigel Tangye"
+    ],
+    "reasoning_steps": [
+      "Jean Everald Tangye spouse Derek Tangye",
+      "Derek Tangye sibling Nigel Tangye"
+    ]
+  },
+  {
+    "id": "d977eef20bd911eba7f7acde48001122",
+    "question": "Why did the director of film The Devil'S Playground (1937 Film) die?",
+    "answers": [
+      "Parkinson"
+    ],
+    "reasoning_steps": [
+      "Devil's Playground director Erle C. Kenton",
+      "Erle C. Kenton cause of death Parkinson"
+    ]
+  },
+  {
+    "id": "dcb113fc088011ebbd6dac1f6bf848b6",
+    "question": "Are both director of film The Debt (1917 Film) and director of film The Forbidden Thing from the same country?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "The Debt (1917 film) director Frank Powell",
+      "The Forbidden Thing director Allan Dwan",
+      "Frank Powell country of citizenship Canadian",
+      "Allan Dwan country of citizenship American",
+      "Allan Dwan country of citizenship Canadian"
+    ]
+  },
+  {
+    "id": "754af08e0bdc11eba7f7acde48001122",
+    "question": "Who is the father of the performer of song Don'T Touch My Hair?",
+    "answers": [
+      "Mathew Knowles"
+    ],
+    "reasoning_steps": [
+      "Don't Touch My Hair performer Solange",
+      "Solange father Mathew Knowles"
+    ]
+  },
+  {
+    "id": "7c292ecc0bda11eba7f7acde48001122",
+    "question": "Who is the spouse of the director of film Her Marriage Vow?",
+    "answers": [
+      "Mary Eaton"
+    ],
+    "reasoning_steps": [
+      "Her Marriage Vow director Millard Webb",
+      "Millard Webb spouse Mary Eaton"
+    ]
+  },
+  {
+    "id": "eb3fa6d00bdd11eba7f7acde48001122",
+    "question": "Which country Jamasp's father is from?",
+    "answers": [
+      "Persian"
+    ],
+    "reasoning_steps": [
+      "Jamasp father Peroz I",
+      "Peroz I country of citizenship Persian"
+    ]
+  },
+  {
+    "id": "40b044fb088511ebbd6dac1f6bf848b6",
+    "question": "Are Janise Yntema and Bianca Halstead from the same country?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "Janise Yntema country of citizenship American",
+      "Bianca Halstead country of citizenship American"
+    ]
+  },
+  {
+    "id": "b6bbd79e08e511ebbda4ac1f6bf848b6",
+    "question": "Are both Tiffany Jones (Film) and Trent'S Last Case (1920 Film) from the same country?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "Tiffany Jones (film) country of origin British",
+      "Trent's Last Case (1920 film) country of origin British"
+    ]
+  },
+  {
+    "id": "025318340bde11eba7f7acde48001122",
+    "question": "Where does the director of film Reel Bad Arabs work at?",
+    "answers": [
+      "University of Massachusetts Amherst"
+    ],
+    "reasoning_steps": [
+      "Reel Bad Arabs director Sut Jhally",
+      "Sut Jhally employer University of Massachusetts Amherst"
+    ]
+  },
+  {
+    "id": "1f98da44088111ebbd6dac1f6bf848b6",
+    "question": "Which film whose director is younger, Venus Of Venice or The Caper Of The Golden Bulls?",
+    "answers": [
+      "The Caper Of The Golden Bulls"
+    ],
+    "reasoning_steps": [
+      "Venus of Venice director Marshall Neilan",
+      "The Caper of the Golden Bulls director Russell Rouse",
+      "Marshall Neilan date of birth April 11, 1891",
+      "Russell Rouse date of birth November 20, 1913"
+    ]
+  },
+  {
+    "id": "d69310fe08b911ebbd88ac1f6bf848b6",
+    "question": "Which film has the director who was born first, Suyetchai Mla or The Rocky Horror Picture Show?",
+    "answers": [
+      "The Rocky Horror Picture Show"
+    ],
+    "reasoning_steps": [
+      "Suyetchai MLA director Guru Dhanapal",
+      "The Rocky Horror Picture Show director Jim Sharman",
+      "Guru Dhanapal date of birth 2 March 1959",
+      "Jim Sharman date of birth 12 March 1945"
+    ]
+  },
+  {
+    "id": "c7417f2208d811ebbd9cac1f6bf848b6",
+    "question": "Did R. D. Call and Taryn Power share the same nationality?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "R. D. Call country of citizenship American",
+      "Taryn Power country of citizenship American"
+    ]
+  },
+  {
+    "id": "1bdc6bd9088811ebbd6eac1f6bf848b6",
+    "question": "Which film has the director who died first, The Flyin' Cowboy or From Morn To Midnight?",
+    "answers": [
+      "From Morn To Midnight"
+    ],
+    "reasoning_steps": [
+      "The Flyin' Cowboy director B. Reeves Eason",
+      "From Morn to Midnight director Karlheinz Martin",
+      "B. Reeves Eason date of death June 9, 1956",
+      "Karlheinz Martin date of death January 13, 1948"
+    ]
+  },
+  {
+    "id": "6588c836088711ebbd6dac1f6bf848b6",
+    "question": "Which film has the director who died earlier, Oi Kyries Tis Avlis or Maurin Of The Moors?",
+    "answers": [
+      "Maurin Of The Moors"
+    ],
+    "reasoning_steps": [
+      "Oi kyries tis avlis director Dinos Dimopoulos",
+      "Maurin of the Moors director Andr\u00e9 Hugon",
+      "Dinos Dimopoulos date of death 28 February 2003",
+      "Andr\u00e9 Hugon date of death 22 August 1960"
+    ]
+  },
+  {
+    "id": "5750bfd20bdc11eba7f7acde48001122",
+    "question": "Who is the spouse of the director of film Worldly Goods?",
+    "answers": [
+      "Jean Harlow"
+    ],
+    "reasoning_steps": [
+      "Worldly Goods director Paul Bern",
+      "Paul Bern spouse Jean Harlow"
+    ]
+  },
+  {
+    "id": "b2858d44089911ebbd77ac1f6bf848b6",
+    "question": "Are both movies, Photograph (Film) and Best Night Ever, from the same country?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "Photograph (film) country of origin India",
+      "Photograph (film) country of origin United States",
+      "Best Night Ever country of origin American"
+    ]
+  },
+  {
+    "id": "fc132eba0baf11ebab90acde48001122",
+    "question": "Who is the paternal grandfather of Thankmar?",
+    "answers": [
+      "Otto I"
+    ],
+    "reasoning_steps": [
+      "Thankmar father Henry I",
+      "Henry \u0399 the Fowler father Otto I"
+    ]
+  },
+  {
+    "id": "2e99eb8e0bde11eba7f7acde48001122",
+    "question": "What is the place of birth of the director of film Visions Of Light?",
+    "answers": [
+      "American"
+    ],
+    "reasoning_steps": [
+      "Visions of Light director Todd McCarthy",
+      "Todd McCarthy place of birth American"
+    ]
+  },
+  {
+    "id": "b62550940bdd11eba7f7acde48001122",
+    "question": "Where did Princess Catherine Of Schleswig-Holstein-Sonderburg-Beck's father die?",
+    "answers": [
+      "Reval"
+    ],
+    "reasoning_steps": [
+      "Princess Catherine of Schleswig-Holstein-Sonderburg-Beck father Peter August",
+      "Peter August place of death Reval"
+    ]
+  },
+  {
+    "id": "ee5435080bdc11eba7f7acde48001122",
+    "question": "What is the place of birth of Constance Of Arles's husband?",
+    "answers": [
+      "Orl\u00e9ans"
+    ],
+    "reasoning_steps": [
+      "Constance of Arles spouse Robert II of France",
+      "Robert II place of birth Orl\u00e9ans"
+    ]
+  },
+  {
+    "id": "e06bb25e08c611ebbd91ac1f6bf848b6",
+    "question": "Who has a wider scope of profession, Michael D. Antonovich or P\u00e9ter M\u00e1t\u00e9?",
+    "answers": [
+      "P\u00e9ter M\u00e1t\u00e9"
+    ],
+    "reasoning_steps": [
+      "Michael D. Antonovich occupation politician",
+      "P\u00e9ter M\u00e1t\u00e9 occupation singer",
+      "P\u00e9ter M\u00e1t\u00e9 occupation pianist",
+      "P\u00e9ter M\u00e1t\u00e9 occupation composer"
+    ]
+  },
+  {
+    "id": "86d1025008c611ebbd90ac1f6bf848b6",
+    "question": "Are both universities, African Institute For Future Studies and University Of Kisangani, located in the same country?",
+    "answers": [
+      "yes"
+    ],
+    "reasoning_steps": [
+      "African Institute for Future Studies country Zaire",
+      "University of Kisangani country Democratic Republic of the Congo"
+    ]
+  },
+  {
+    "id": "60f247280bdb11eba7f7acde48001122",
+    "question": "What is the place of birth of the director of film Yoogan?",
+    "answers": [
+      "Kovilpatti"
+    ],
+    "reasoning_steps": [
+      "Yoogan director Kamal G",
+      "Kamal G place of birth Kovilpatti"
+    ]
+  },
+  {
+    "id": "e6bdda040bd911eba7f7acde48001122",
+    "question": "Where was the director of film Life Of An Actress born?",
+    "answers": [
+      "Memphis, Tennessee"
+    ],
+    "reasoning_steps": [
+      "Life of an Actress director Jack Nelson",
+      "Jack Nelson place of birth Memphis, Tennessee"
+    ]
+  },
+  {
+    "id": "f1a04d600bdb11eba7f7acde48001122",
+    "question": "What is the place of birth of the director of film Dollar (1938 Film)?",
+    "answers": [
+      "Helsingfors"
+    ],
+    "reasoning_steps": [
+      "Dollar director Gustaf Molander",
+      "Gustaf Molander place of birth Helsingfors"
+    ]
+  },
+  {
+    "id": "e1a43dce086e11ebbd62ac1f6bf848b6",
+    "question": "Which film has the director died later, The Man In The Raincoat or Secret Of Treasure Mountain?",
+    "answers": [
+      "Secret Of Treasure Mountain"
+    ],
+    "reasoning_steps": [
+      "The Man in the Raincoat director Julien Duvivier",
+      "Secret of Treasure Mountain director Seymour Friedman",
+      "Julien Duvivier date of death 29 October 1967",
+      "Seymour Friedman date of death April 2, 2003"
+    ]
+  },
+  {
+    "id": "f5a549f20bda11eba7f7acde48001122",
+    "question": "Where was the performer of song Hard Feelings/Loveless born?",
+    "answers": [
+      "Takapuna"
+    ],
+    "reasoning_steps": [
+      "Hard Feelings/Loveless performer Lorde",
+      "Lorde place of birth Takapuna"
+    ]
+  },
+  {
+    "id": "6b6abb6808a211ebbd7aac1f6bf848b6",
+    "question": "Which film has the director who died earlier, Ma And Pa Kettle Go To Town or Malibu Express?",
+    "answers": [
+      "Ma And Pa Kettle Go To Town"
+    ],
+    "reasoning_steps": [
+      "Ma and Pa Kettle Go to Town director Charles Lamont",
+      "Malibu Express director Andy Sidaris",
+      "Charles Lamont date of death September 12, 1993",
+      "Andy Sidaris date of death March 7, 2007"
+    ]
+  }
+]

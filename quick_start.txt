@@ -1,0 +1,31 @@
+Quick Start & Stop Guide
+⚡ 1-Click Method (Batch Scripts)
+
+Two automated launchers have been placed in the project root:
+
+Start Everything:
+
+Double-click start.bat
+Checks if Ollama is running (starts ollama serve if not), activates venv, starts the server on port 8000, and opens your browser.
+
+Stop Everything:
+
+Double-click stop.bat
+Gracefully terminates the Python web server on port 8000 and stops Ollama background processes (ollama.exe).
+💻 Manual Terminal Commands
+
+- 🟢 Starting Manually:
+powershell
+# 1. Start Ollama (in a background terminal)
+ollama serve
+# 2. Start Unified FastAPI & React Server (in your main terminal)
+python -m uvicorn api:app --host 127.0.0.1 --port 8000
+
+Then visit http://localhost:8000.
+
+- 🔴 Stopping Manually:
+powershell
+# 1. Stop Port 8000 Web Server
+Get-NetTCPConnection -LocalPort 8000 -ErrorAction SilentlyContinue | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force }
+# 2. Stop Ollama
+Stop-Process -Name ollama, "ollama app" -Force -ErrorAction SilentlyContinue

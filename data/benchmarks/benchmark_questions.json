@@ -1,0 +1,208 @@
+{
+  "benchmark_suite_name": "Confidence-RAG Multi-Hop Cognitive & Knowledge Graph Benchmark Suite",
+  "version": "2.4.0",
+  "total_questions": 20,
+  "categories": [
+    "knowledge_graph_and_entities",
+    "multi_hop_comparison",
+    "single_hop_precision",
+    "crag_evaluator_and_web_fallback",
+    "zero_retrieval_parametric"
+  ],
+  "questions": [
+    {
+      "id": "KG-01",
+      "category": "knowledge_graph_and_entities",
+      "focus": "Entity Traversal & Triples Extraction",
+      "target_document": "adaptive_rag_naacl2024.pdf",
+      "question": "What research paper introduced Adaptive-RAG, what conference was it accepted to, and what are its key components?",
+      "expected_entities": ["Adaptive-RAG", "NAACL 2024", "Complexity Classifier", "Retrieval-Augmented Generation"],
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "test_instruction": "Test in Knowledge Graph Explorer tab to verify entity extraction and relationship nodes."
+    },
+    {
+      "id": "KG-02",
+      "category": "knowledge_graph_and_entities",
+      "focus": "Architectural Triples & Cross-Attention",
+      "target_document": "attention_is_all_you_need.pdf",
+      "question": "In 'Attention Is All You Need', what are the primary components of the Transformer encoder and decoder stacks?",
+      "expected_entities": ["Transformer", "Multi-Head Attention", "Feed-Forward", "Positional Encoding"],
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "test_instruction": "Observe the extracted knowledge graph edges between Multi-Head Attention, Scaled Dot-Product, and LayerNorm."
+    },
+    {
+      "id": "KG-03",
+      "category": "knowledge_graph_and_entities",
+      "focus": "Compliance Entity Governance",
+      "target_document": "soc2_cybersecurity_policy.txt",
+      "question": "What cryptographic standards and key rotation schedules are mandated in the SOC 2 cybersecurity policy?",
+      "expected_entities": ["AES-256", "FIPS 140-2", "TLS 1.3", "DEK", "KEK"],
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "test_instruction": "Verify that DEK (90 days) and KEK (annual) relations appear in the knowledge graph triples table."
+    },
+    {
+      "id": "KG-04",
+      "category": "knowledge_graph_and_entities",
+      "focus": "Cloud SLA Availability & Penalties",
+      "target_document": "cloud_infrastructure_sla.txt",
+      "question": "What are the three service models and availability commitment tiers defined in the Cloud Infrastructure SLA?",
+      "expected_entities": ["IaaS", "PaaS", "SaaS", "Tier-1", "Tier-2", "99.99%"],
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "test_instruction": "Verify that IaaS, PaaS, and SaaS are mapped to their respective guarantees in the graph."
+    },
+    {
+      "id": "MH-01",
+      "category": "multi_hop_comparison",
+      "focus": "Cross-Paper Paradigm Comparison",
+      "target_document": "adaptive_rag_naacl2024.pdf & crag_self_correction_2024.pdf",
+      "question": "Compare the core philosophies of Adaptive-RAG and Corrective-RAG (CRAG): how does Adaptive-RAG decide WHEN to retrieve, and how does CRAG decide IF the retrieval was correct?",
+      "expected_route": "MULTI_HOP",
+      "expected_verdict": "CORRECT",
+      "expected_subqueries": [
+        "How does Adaptive-RAG classify query complexity to determine when to retrieve?",
+        "How does CRAG evaluate retrieval confidence to determine if retrieval was correct?"
+      ],
+      "test_instruction": "Verify that the Classifier splits the prompt into 2 distinct sub-queries and synthesizes the comparative brief."
+    },
+    {
+      "id": "MH-02",
+      "category": "multi_hop_comparison",
+      "focus": "Cross-Document Legal Risk Analysis",
+      "target_document": "cloud_infrastructure_sla.txt & enterprise_vendor_msa.txt",
+      "question": "Compare the statutory penalties for critical outages under the Cloud SLA with the liability cap defined in the Master Services Agreement.",
+      "expected_route": "MULTI_HOP",
+      "expected_verdict": "CORRECT",
+      "expected_subqueries": [
+        "What are the statutory penalties for critical outages in the Cloud SLA?",
+        "What is the maximum liability cap in the Master Services Agreement?"
+      ],
+      "test_instruction": "Ensure the synthesized response reconciles the 100% monthly service fee credit with the 12x monthly fee liability cap."
+    },
+    {
+      "id": "MH-03",
+      "category": "multi_hop_comparison",
+      "focus": "Technical Architecture Comparison",
+      "target_document": "attention_is_all_you_need.pdf & crag_self_correction_2024.pdf",
+      "question": "How does self-attention in the Transformer architecture differ from cross-attention used in Cross-Encoder document reranking?",
+      "expected_route": "MULTI_HOP",
+      "expected_verdict": "CORRECT",
+      "test_instruction": "Tests synthesis across self-attention token interactions versus query-passage cross-encoding."
+    },
+    {
+      "id": "MH-04",
+      "category": "multi_hop_comparison",
+      "focus": "Enterprise Compliance & SLA Alignment",
+      "target_document": "soc2_cybersecurity_policy.txt & enterprise_vendor_msa.txt",
+      "question": "What contractual assurances does the system provide regarding customer data ownership and artificial intelligence model retraining?",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "test_instruction": "Verify that the Zero Model Retraining guarantee is extracted with citation from enterprise_vendor_msa.txt."
+    },
+    {
+      "id": "SH-01",
+      "category": "single_hop_precision",
+      "focus": "Laser Precision Definition",
+      "target_document": "adaptive_rag_naacl2024.pdf",
+      "question": "What are the three complexity levels defined in the Adaptive-RAG NAACL 2024 paper?",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "ground_truth_snippets": ["ZERO_RETRIEVAL", "SINGLE_HOP", "MULTI_HOP"],
+      "test_instruction": "Check for Grounding Confidence >= 0.95 with Stage-2 Cross-Encoder score."
+    },
+    {
+      "id": "SH-02",
+      "category": "single_hop_precision",
+      "focus": "Mathematical Formula Retrieval",
+      "target_document": "attention_is_all_you_need.pdf",
+      "question": "What is the mathematical equation for Scaled Dot-Product Attention in the Attention Is All You Need paper?",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "ground_truth_snippets": ["softmax((QK^T)/sqrt(d_k))V"],
+      "test_instruction": "Verify that the LaTeX equation is properly rendered in markdown output."
+    },
+    {
+      "id": "SH-03",
+      "category": "single_hop_precision",
+      "focus": "SLA Credit Thresholds",
+      "target_document": "cloud_infrastructure_sla.txt",
+      "question": "What are the exact monthly uptime percentage ranges and corresponding service credits in the SLA?",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "ground_truth_snippets": ["99.50% to 99.99%: 10%", "99.00% to 99.50%: 25%", "< 99.00%: 50%", "Critical: 100%"],
+      "test_instruction": "Verify that the generated answer formats the tiers into an executive Markdown table."
+    },
+    {
+      "id": "SH-04",
+      "category": "single_hop_precision",
+      "focus": "Data Protection SLA",
+      "target_document": "soc2_cybersecurity_policy.txt",
+      "question": "What is the statutory breach notification SLA defined under the cybersecurity policy?",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "CORRECT",
+      "ground_truth_snippets": ["24 hours of incident confirmation"],
+      "test_instruction": "Verify 24-hour SLA citation is accurate."
+    },
+    {
+      "id": "CRAG-01",
+      "category": "crag_evaluator_and_web_fallback",
+      "focus": "Air-Gapped Strict Vault Policy Enforcement",
+      "target_document": "N/A (Out of Domain)",
+      "question": "What was the stock closing price of NVIDIA yesterday?",
+      "test_mode": "strict_vault",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "INCORRECT",
+      "expected_behavior": "Strict Vault Mode must block web search (0 external requests) and state that external financial data is unavailable in the vault.",
+      "test_instruction": "Verify 0% web leakage in Strict Vault Mode."
+    },
+    {
+      "id": "CRAG-02",
+      "category": "crag_evaluator_and_web_fallback",
+      "focus": "Autonomous Adaptive Web Augmentation",
+      "target_document": "N/A (Live Market Question)",
+      "question": "What are the key architectural features of the Groq LPU (Language Processing Unit)?",
+      "test_mode": "autonomous",
+      "expected_route": "SINGLE_HOP",
+      "expected_verdict": "INCORRECT",
+      "expected_behavior": "Because the vault does not contain Groq hardware specs, CRAG automatically triggers DuckDuckGo search fallback and grounds the response using web sources.",
+      "test_instruction": "Verify Web Sources drawer expands with live search citations."
+    },
+    {
+      "id": "CRAG-03",
+      "category": "crag_evaluator_and_web_fallback",
+      "focus": "Ambiguous Retrieval Fusion",
+      "target_document": "cloud_infrastructure_sla.txt",
+      "question": "How does Solaris Cloud SLA compare with AWS standard compute SLA?",
+      "test_mode": "autonomous",
+      "expected_route": "MULTI_HOP",
+      "expected_verdict": "AMBIGUOUS",
+      "expected_behavior": "Combines internal vault SLA (Solaris 99.99%) with external public AWS EC2 SLA (99.99% multi-AZ) via hybrid synthesis.",
+      "test_instruction": "Inspect the CRAG Evaluator card showing AMBIGUOUS verdict badge."
+    },
+    {
+      "id": "ZR-01",
+      "category": "zero_retrieval_parametric",
+      "focus": "Instant Parametric Routing",
+      "target_document": "None",
+      "question": "Write a clean Python function to calculate the Fibonacci series up to N using dynamic programming.",
+      "expected_route": "ZERO_RETRIEVAL",
+      "expected_verdict": null,
+      "expected_behavior": "Retrieval step is skipped (0 vector searches). Response is generated immediately in < 500 ms.",
+      "test_instruction": "Verify that chunks retrieved is 0 and route is Zero-Retrieval."
+    },
+    {
+      "id": "ZR-02",
+      "category": "zero_retrieval_parametric",
+      "focus": "Conversational Greeting",
+      "target_document": "None",
+      "question": "Hello! Can you explain your primary system capabilities?",
+      "expected_route": "ZERO_RETRIEVAL",
+      "expected_verdict": null,
+      "expected_behavior": "Direct conversational response with zero retrieval latency.",
+      "test_instruction": "Check that classification latency is under 300 ms."
+    }
+  ]
+}
