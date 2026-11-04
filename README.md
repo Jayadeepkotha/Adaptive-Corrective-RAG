@@ -148,8 +148,8 @@ To isolate the marginal contributions of multi-hop coordination, cross-attention
 ### 1. Clone the Repository & Set Up Virtual Environment
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Confidence-RAG.git
-cd Confidence-RAG
+git clone https://github.com/Jayadeepkotha/Adaptive-Corrective-RAG.git
+cd Adaptive-Corrective-RAG
 # Create virtual environment
 python -m venv venv
 # Activate virtual environment
